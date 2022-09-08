@@ -1,7 +1,15 @@
 {
-  "name": "next-ts",
+  "name": "next-ts-template",
   "version": "0.1.0",
+  "author": "Chadly Riedewald",
+  "description": "A template for creating a production-ready Next.js application",
   "private": true,
+  "homepage": "https://github.com/ChadlyRiedewald/next-ts-template",
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
